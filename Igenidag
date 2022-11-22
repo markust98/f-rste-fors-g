@@ -3,6 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <title>Igenidag</title>
+   <link rel="stylesheet" href="igenidagstyle.css">
+
+    </style>
+    
   </head>
 
   <body>
